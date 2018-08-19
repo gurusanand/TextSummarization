@@ -1,0 +1,16 @@
+https://docs.atlassian.com/aui/getting-started.html#download-aui
+Downloading static files
+The zip file contains both core/stable components from AUI, plus some components with experimental APIs (in separate resources).
+Download this zip.
+Once you've downloaded the file and if you want everything, including AUI's dependencies, experimental features and compiled-JS Soy templates, add the following code to the HEAD of your templates or page: 
+
+
+<link rel="stylesheet" href="aui/css/aui.min.css" media="all">
+<link rel="stylesheet" href="aui/css/aui-experimental.min.css" media="all">
+<script src="aui/js/aui.min.js"></script>
+<script src="aui/js/aui-experimental.min.js"></script>
+<script src="aui/js/aui-soy.min.js"></script>
+
+Update the path to point to the location of your copy.
+
+https://docs.atlassian.com/aui/7.9.5/docs/forms.html?_ga=2.180225389.816055335.1534641878-650158341.1527603480

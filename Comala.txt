@@ -1,0 +1,15 @@
+https://my.atlassian.com/addon/success?type=try&addOnKey=com.comalatech.workflow&addOnName=Comala+Workflows&addOnSen=L12177204&licenseId=12177204&parentName=Confluence+%28Server%29&referrer=pac&callback=&licensefieldname=
+
+AAABJQ0ODAoPeNp1kN9LwzAQx9/zVwR8bmmK+wkBR9cHYd3ETX3x5RZva7BNyyXZnH+96VZRxD0EQ
+u7uc59vbjal5zO/52LIk/F0MJomE57NNzxNxJgtfb1FWu2eLJKVkWBztIp063RjZNbUUAF/aeh9V
+zVH+zrl+QEqD12VZYTnyxwcyg4WJeNIDFnWGAfKLaFGuffkYzBg3u5q/enLJlLbWDX1d1NegK6ud
+/1sk448skorNBafg2v3lrIwbhyGSYX5R6vp9EtmEokBC5SOFGI4VGV87KPEawfkkOQOKotsRXsw2
+l42FWcFts6XMpxoIVIxGqXJ7VVWyKEPeDFcXAz/l+mLm1OL59/JVkWRP2b3s8VVNoZ41JK2Pf/Bk
+yrB4t9P/wKbvacKMCwCFE0eMMm9XoytCfx52tdKVKhFXPyVAhQTVKged2Ny/D2UAf4kjyLBvRi9y
+A==X02eq
+
+https://my.atlassian.com/products/index
+
+The Jira Software application is compatible with Jira 7.x and higher. If you're already running Jira, you can download the desired application version from the list below and manually install it on your server. If not, download the full Jira Software installer instead.
+
+https://marketplace.atlassian.com/apps/1213607/jira-software/version-history
