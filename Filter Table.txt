@@ -1,0 +1,30 @@
+# Macro title: My Macro
+## Macro has a body: Y or N
+## Body processing: Selected body processing option
+## Output: Selected output option
+##
+## Developed by: My Name
+## Date created: dd/mm/yyyy
+## Installed by: My Name
+
+## This is an example macro
+## @param Name:title=Name|type=string|required=true|desc=Your name
+## @param Colour:title=Favourite Colour|type=enum|enumValues=red,green,blue|default=red|desc=Choose your favourite colour
+
+## @param 0:title=Length of the input field|type=enum|enumValues=short-field,medium-field,medium-long-field,long-field,full-width-field|default=long-field
+
+<form class="aui">
+<input class="text $param0" type="text" id="searchInput" placeholder="Enter Search term"></form>
+<script type="text/javascript">
+AJS.$("#searchInput").keyup(function () {
+var jqry = AJS.$
+var rows = jqry("tr").hide();
+if (this.value.length) {
+        var data = this.value.split(" ");
+        jqry.each(data, function (i, v) {
+                rows.filter(":contains('" + v + "')").show();
+        });
+} else rows.show();
+AJS.$('thead tr').show();
+});
+</script>
