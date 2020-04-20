@@ -9,3 +9,5 @@ https://confluence.atlassian.com/display/APPLINKS030/Adding+an+Application+Link
 
 Adding an Entity Link
 https://confluence.atlassian.com/display/APPLINKS030/Adding+an+Entity+Link
+
+https://www.tableau.com/learn/training/elearning?utm_campaign=2017007_eLearning_PNOT_GLOBAL_en-US_2020-04-14_Cust-COVID-eLearning-Promo&utm_medium=Email&utm_source=Eloqua&domain=mizuho-cb.com&eid=CTBLS000017530419&elqTrackId=e18ec70d65fd49a58de1ed197d5ed401&elq=10e1613e26264f588f3fb0d9dd6e0035&elqaid=42688&elqat=1&elqCampaignId=41815
